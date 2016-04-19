@@ -1,7 +1,7 @@
 {
   "name": "slack-message-manager",
   "version": "1.0.0",
-  "description": "Node.JS plateform dedicated to manage Slack custom message",
+  "description": "Node.JS script dedicated to send custom message to a Slack webhook.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
