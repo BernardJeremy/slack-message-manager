@@ -17,5 +17,5 @@ Node.JS script dedicated to send custom message to a Slack webhook.
 
 ## Message setup
 - Create a JSON file like [message-exemple.json](https://github.com/BernardJeremy/slack-message-manager/blob/master/message-exemple.json) with your message's parameters.
-- `username` `icon_emoji` and `channel` are optional.
-- Run the program with the message file path/name as parameter : `npm install file.json` or `node index.js file.json`.
+- Parameters `username` `icon_emoji` and `channel` are optional.
+- Run the program with the message file path/name as parameter : `npm start file.json` or `node index.js file.json`.
